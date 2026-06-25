@@ -26,7 +26,7 @@ O programa solicita o nome do usuário e o valor de três salários (informados 
 ## Demonstração
 
 <p align="center">
-  <img src="images/printDesafioConversao.png" alt="Execução do programa" width="750">
+  <img src="images/printDesafioConversao.jpg" alt="Execução do programa" width="750">
 </p>
 
 ## Estrutura do projeto
