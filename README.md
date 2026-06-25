@@ -35,7 +35,7 @@ O programa solicita o nome do usuário e o valor de três salários (informados 
 java-calculo-media-salarios/
 │
 ├── images/
-│   └── execucao.png
+│   └── printDesafioConversao.jpg
 │
 ├── CalculoMediaSalarios.java
 │
